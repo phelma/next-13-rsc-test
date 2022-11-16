@@ -1,3 +1,3 @@
-import { createServerContext } from "react"
+import { createServerContext } from 'react';
 
-export const pageContext = createServerContext('DEFAULT')
+export const pageContext = createServerContext('DEFAULT 👎');
